@@ -1,11 +1,12 @@
 
 import './App.css';
-import HigherOrderFunctions from './components/HigherOrderFunction';
+// import HigherOrderFunctions from './components/HigherOrderFunction';
+import HigherOrderFuncSuper from './components/HigherOrderFuncSuper'
 
 function App() {
   return (
     <div className="App">
-      <HigherOrderFunctions />
+      <HigherOrderFuncSuper />
     </div>
   );
 }
